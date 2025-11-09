@@ -1,0 +1,10 @@
+{
+  "id": "p1",
+  "name": "Sabudana Khichdi",
+  "category": "breakfast",
+  "price": 60,
+  "tags": [
+      "maharashtrian",
+      "veg"
+  ]
+}
